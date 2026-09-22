@@ -1,3 +1,6 @@
+# Task 03: loan payment
+# Asks for loan amount, term in months and annual rate, prints total interest, total cost and monthly payment.
+
 loan = float(input("Loan amount: "))
 term = int(input("Loan term (in months): "))
 rate = float(input("Loan rate, % "))

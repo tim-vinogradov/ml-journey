@@ -1,3 +1,6 @@
+# Task 04: debt-to-income ratio
+# Asks for monthly income and loan payments, prints debt burden and risk level.
+
 monthly_income = int(input("Your monthly income is: "))
 monthly_payment = int(input("Your monthly payment is: "))
 

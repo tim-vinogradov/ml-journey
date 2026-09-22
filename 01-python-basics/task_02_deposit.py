@@ -1,3 +1,6 @@
+# Task 02: deposit income
+# Asks for deposit amount and annual rate, prints yearly income and total balance.
+
 amount = float(input("Deposit amount: "))
 rate = float(input("Interest rate, %: "))
 
